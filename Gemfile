@@ -22,6 +22,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'paperclip'
+gem 'aws-sdk', '~> 1.60.2'
+gem 'figaro'
 
 
 group :development, :test do
